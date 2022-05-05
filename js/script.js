@@ -9,6 +9,7 @@ const app = new Vue(
         el: '#root',
         data: {
             titleText: 'Hello World!',
+            imageDom: 'https://source.unsplash.com/300x300',
         }
     }
 )
